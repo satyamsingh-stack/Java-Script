@@ -1,0 +1,10 @@
+let st="Satyam Singh";
+console.log(st.length);
+console.log(st.toUpperCase());
+console.log(st.toLowerCase());
+console.log(st.replace("Singh","Sighnia"));
+console.log(st.slice(2,10));
+console.log(st.slice(5));
+console.log(st.concat(" is a friend of Shailesh"));
+let temp="                   Satyam Singh                 ";
+console.log(temp.trim());
